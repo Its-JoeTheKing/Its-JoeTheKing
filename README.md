@@ -1,9 +1,5 @@
-- 👋 Hi, This is Joe
-- 👀 I’m interested in Coding,Programming and Cyber Security
-- 🌱 I’m currently learning Cyber Security
-- Languages: Python,C++,C#,HTML AND CSS,PHP,JavaScript,SQL
 
-<!---
-Its-JoeTheKing/Its-JoeTheKing is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+| [![JoeTheKing's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoeTheKing&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/JoeTheKing?tab=repositories) | [![appinha's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoeTheKing&layout=compact&hide_border=true&theme=jolly)](https://github.com/Its-JoeTheKing?tab=repositories) |
+|:-:|:-:|
